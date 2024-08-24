@@ -1,0 +1,16 @@
+{
+  "initial_investment": 10000,
+  "investment_date": "2022-10-19",
+  "cash": 1000,
+  "assets": {
+    "PUST.PA": {
+      "quantity": 100
+    },
+    "WPEA.PA": {
+      "quantity": 500
+    },
+    "CW8.PA": {
+      "quantity": 100
+    }
+  }
+}
