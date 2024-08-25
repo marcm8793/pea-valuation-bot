@@ -67,7 +67,7 @@ Portfolio Valuation:
 Current Value: {format_currency(current_value)}
 Initial Investment: {format_currency(portfolio['initial_investment'])}
 Total Return: {format_currency(total_return)} ({total_return_percentage:.2f}%)
-Annual Average Return: {annual_return:.2f}%
+Annual Average Return 📈: {annual_return:.2f}%
 Unallocated Cash: {format_currency(portfolio['cash'])}
 """
 
